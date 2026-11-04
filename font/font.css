@@ -1,0 +1,36 @@
+
+/* 1. Archivo Black Font */
+
+@font-face {
+    font-family: "Archivo Black";
+    src: url("font/Archivo_Black/ArchivoBlack-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* 2. Oswald Font */
+
+@font-face {
+    font-family: "Oswald";
+    src: url("font/Oswald/Oswald-VariableFont_wght.ttf") format("truetype");
+    font-weight: 200 700;
+    font-style: normal;
+}
+
+/* 3. Playwrite IT Trad Font */
+
+@font-face {
+    font-family: "Playwrite IT Trad";
+    src: url("font/Playwrite_IT_Trad/PlaywriteITTrad-VariableFont_wght.ttf") format("truetype");
+    font-weight: 100 400;
+    font-style: normal;
+}
+
+/* 4. Mozilla Headline Font */
+
+@font-face {
+    font-family: "Mozilla Headline";
+    src: url("font/Mozilla_Headline/MozillaHeadline-VariableFont_wdth,wght.ttf") format("truetype");
+    font-weight: 100 900;
+    font-style: normal;
+}

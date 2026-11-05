@@ -16,6 +16,9 @@ A grocery product display interface featuring a clean background, organized prod
 - Product display-limit dropdown
 - CSS Grid-based product layout
 
+## Output:
+https://drive.google.com/drive/folders/1a80zcMaCBRsXlpfAVRd7bIo9rW8tRURo?usp=sharing
+
 ## Technologies Used
 
 - HTML5 – Page structure and content
